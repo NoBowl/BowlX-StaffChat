@@ -1,0 +1,8 @@
+name: BowlX StaffChat
+version: 1.0
+main: com.BowlX.staffchat.basic
+api-version: 1.13
+commands:
+  staffchat:
+    description: Opens the BowlX Staff Chat channel
+    usage: /<command>
