@@ -1,6 +1,6 @@
 name: BowlX StaffChat
 version: 1.0
-main: com.BowlX.staffchat.basic
+main: com.BowlX.staffchat.main
 api-version: 1.13
 commands:
   staffchat:
